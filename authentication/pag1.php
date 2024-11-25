@@ -1,5 +1,6 @@
 <?php
 require 'control.php';
+control(2);
 ?>
 <!DOCTYPE html>
 <html lang="en">
